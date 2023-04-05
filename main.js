@@ -1,0 +1,7 @@
+const bye = "bye"
+
+const greeter = `hiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiii${bye}`
+
+const greeter2 = "hiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiiihiiiiiiiiii${bye}"
+
+console.log(greeter, greeter2)

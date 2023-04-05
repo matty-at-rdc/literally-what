@@ -25,6 +25,8 @@ Next "try" to fix the project by:
 - Removing the `resolutions` field from the _package.json_
 - Removing the _node_modules_ folder `rm -rf node_modules` -- Ol' reliable
 - Running another `yarn install`
+- yarn eslint --config ./.eslintrc.js main.js
+- Agen, see the boom 💥
 
 Next actually fix the project by:
 

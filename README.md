@@ -10,7 +10,7 @@ This is an example of how Babel's ecosystem using loose versioning and Yarn's Lo
 - `@babel/eslint-parser @ 7.19.1` requires `@babel/core @ >= 7.11.0`
 - `@babel/core @ 7.11.0` requires `@babel/parser @ ^7.11.0`
 - `@babel/eslint-parser @ 7.17.0` introduced a requirement of an identifer (`doubleAt`) only avaialble at `@babel/parser @ 7.17.0` 
-- Note, that apart from my resolutions being a bit pushy (due to an in adeqaucy in `@babel/eslint-parser`'s package) this is fully valid and possible for a properly managed project to get into this state
+- Note, that apart from my resolutions being a bit pushy (due to an _inadeqaucy_ (this isn't the __perfect__ word, but it's not ideal!) in `@babel/eslint-parser`'s package) this is fully valid and possible for a properly managed project to get into this state
 
 ## How to make it boom 💥
 
